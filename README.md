@@ -19,7 +19,7 @@ A Power BI–based e-commerce performance analysis project that uncovers busines
 ### 🖼️ Power BI Dashboard Snapshots
 
 #### Power BI Dashboard - Main Tab Part 1  
-![Main Tab 1]()
+![Main Tab 1](images/main_tab_1.png)
 
 #### Power BI Dashboard - Main Tab Part 2  
 ![Main Tab 2](images/main_tab_2.png)
