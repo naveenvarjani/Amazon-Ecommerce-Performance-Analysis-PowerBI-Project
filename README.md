@@ -19,7 +19,7 @@ A Power BI–based e-commerce performance analysis project that uncovers busines
 ### 🖼️ Power BI Dashboard Snapshots
 
 #### Power BI Dashboard - Main Tab Part 1  
-![Main Tab 1](images/main_tab_1.png)
+![Main Tab 1]()
 
 #### Power BI Dashboard - Main Tab Part 2  
 ![Main Tab 2](images/main_tab_2.png)
@@ -123,9 +123,14 @@ This project demonstrates **end-to-end business intelligence** using Power BI �
 
 ---
 
-### 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-I'm Naveen Varjani — a data enthusiast passionate about uncovering stories from data and solving real-world problems using analytics.
+I'm a data enthusiast driven by curiosity and a passion for solving real-world problems through analytics.  
+Every project I build is a step forward in turning raw data into impactful business decisions.
 
-📌 [LinkedIn](https://www.linkedin.com/in/naveenvarjani) • [GitHub](https://github.com/naveenvarjani) • ✉️ Email me
+🔗 **Let’s Connect:**
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveenvarjani)  
+- 📄 [Resume](https://drive.google.com/your-resume-link)  
+- 📊 [Portfolio](https://notion.so/your-portfolio-link)  
+- ✉️ [Email Me](mailto:yourname@example.com)
